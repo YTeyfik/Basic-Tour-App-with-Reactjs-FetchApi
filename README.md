@@ -1,3 +1,10 @@
+# Basic Tours App with Reactjs
+
+![Site wiev](https://github.com/YTeyfik/Basic-Tour-App-with-Reactjs-FetchApi/blob/master/public/screencapture-localhost-3000-2021-04-03-15_54_16.png)
+
+## Yazılan kod basitçe useEffect ve fetch api kullanımını içermektedir. 
+## The code simply includes the use of useEffect and fetch api. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
